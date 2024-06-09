@@ -1,0 +1,13 @@
+baseURL: https://javis.dev
+languageCode: en-gb
+title: javis
+theme: ["PaperMod"]
+menu:
+  main:
+    - name: GitHub
+      url: https://github.com/joshryandavis
+
+params:
+  homeInfoParams:
+    Title: There's nothing here!
+    # Content:
